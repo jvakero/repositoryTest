@@ -18,7 +18,11 @@ mundo
 ...................comandos de git iniciales........................
 
 comando para agregar el nombre del usuario
-git config --global user.name "victor-native"
+a
++dfqw
+ñf
+ewqpg
+qewpfp´wedddddddgit config --global user.name "victor-native"
 
 //comando para agregar el email
 git config --global user.email "victor"
