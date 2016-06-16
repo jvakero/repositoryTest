@@ -14,11 +14,16 @@ hola
 
 mundo
 
+qsa
+s
+a
+
+SA
 
 ...................comandos de git iniciales........................
 
 comando para agregar el nombre del usuario
-git config --global user.name "victor-native"
+git config --global user.name "EDMUNDO"
 
 //comando para agregar el email
 git config --global user.email "victor"
