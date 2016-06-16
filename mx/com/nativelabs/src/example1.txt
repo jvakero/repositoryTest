@@ -14,10 +14,10 @@ tampoco esta linea no cambiarla
 ...................comandos de git iniciales........................
 
 comando para agregar el nombre del usuario
-git config --global user.name "sore39"
+git config --global user.name "victor-native"
 
 //comando para agregar el email
-git config --global user.email "sore"
+git config --global user.email "victor"
 
 //habilitar los colores
 git config --global color.ui true
